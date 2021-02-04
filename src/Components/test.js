@@ -1,0 +1,1 @@
+var a = `Hi there! I am Susetyo Pambudi! You can call me Tyo. I've been coding for over 4 years now. As a Frontend developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others with my code to solve their problem.`;
