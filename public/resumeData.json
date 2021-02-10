@@ -89,6 +89,12 @@
                 "category": "",
                 "image": "AmazonClone.PNG",
                 "url": "https://github.com/Susetyo/insurance-guru-clone"
+            },
+            {
+                "title": "Netflix Clone (React JS)",
+                "category": "",
+                "image": "NetflixClone.PNG",
+                "url": "https://github.com/Susetyo/netflix-clone"
             }
         ]
     },
